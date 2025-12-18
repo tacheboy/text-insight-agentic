@@ -8,8 +8,8 @@ LITELLM_BASE_URL = "http://3.110.18.218"
 # NOTE: In production, load this from os.environ.get("LITELLM_API_KEY")
 LITELLM_API_KEY = "sk-pwxRnAJMGuCx8ek_PQBlJw"  # REPLACE THIS WITH YOUR ACTUAL KEY
 # MODEL_NAME = "gemini-2.5-flash"
-MODEL_NAME = "gemini-2.5-pro"
-# MODEL_NAME = "gemini-3-pro-preview"
+# MODEL_NAME = "gemini-2.5-pro"
+MODEL_NAME = "gemini-3-pro-preview"
 
 class LiteLLMClient:
     def __init__(self):
