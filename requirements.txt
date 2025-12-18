@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-openai
-google-analytics-data
-pandas
-pydantic
-python-dotenv
-requests
-tabulate
