@@ -1,0 +1,11 @@
+# Default: store LF in repo
+* text=auto eol=lf
+
+# Shell scripts must stay LF
+*.sh text eol=lf
+
+# Python scripts
+*.py text eol=lf
+
+# JSON
+*.json text eol=lf
